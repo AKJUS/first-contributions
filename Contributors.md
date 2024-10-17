@@ -6,10 +6,12 @@
 - Hello I'm Suzzie{wanjicode}
 - Hello i am Jzz.
 - Hi I am Alex Maxwell.
+- Hi, I'm [Ruan Carlos](https://github.com/Ruan-CRC)
 - Hi i am fazil !!(https://github.com/MuhammedFazilPc)
 - Hi I am John Leshan!!! (https://github.com/johnleshan)
 - Hello everyone! I am Manish (https://github.com/TwilightDawn7/) and this is my first contribution to the Open Source. Really excited for this journey! God bless you All!
 - Hi, I'm Brian Casio (https://github.com/briancasio)
+- Hi, I'm Kate Gandara (https://github.com/KateGandara)
 - Hi everyone! I am Onur (https://github.com/onurerdinc) this is my first contribution to the Open Source. 
 - Hi iam Chiru !!
 - Hi iam james ngandu ! (https://github.com/jmngandu)
@@ -41,6 +43,7 @@ Hello! I am mn121mn121. First time trying.. ^_^
 - Hello , I'm [Shashi Kumar Kasturi](https://github.com/kshashikumar). Very happy to be a part of this contribution initiative.
 - Hi, [Nitesh Jadhav](https://github.com/NitZZ057) here. Please feel free to connect.
 Hi, I'm aashik here
+Hi im Sebastian Heredia(kid ash)
 I am Adnaan (https://github.com/Valley-15)
 - Hallo! I am HawkerX and this is my first contribution!!!!
 - Hi guys 👋 this is my first contribution 🎉
@@ -250,6 +253,7 @@ Hi, it's me Saad (linkedin: https://www.linkedin.com/in/saad-ashraf-380715222/) 
 - Hello fellow **Programmers!** I'm [Henry](https://github.com/hevprog) and this is my **First time making a PR**
 - Hi, [Pravallika Nunna](https://github.com/pravallika-nunna), excited to get into open source.
 - Hi I'm Michelle Sheu uwu
+- Hi, I'm Jake (⑅˘꒳˘)
 - [Inzamam Ulhaq](https://github.com/Inzamamulhaq01)  [https://www.linkedin.com/in/inzamam-ulhaq1/] **My first step on OS projects** 
 -Hi guys I'm Chieler from Taiwa and this is my first time trying open source
 - Hello, world! I am Anubhav from India, and this is my first ever open source contribution!
@@ -1423,6 +1427,7 @@ Rudraksh Upadhyay- learing to contribute in open source projects
 -[Barbi](https://github.com/bcot-code)**First contribution jul2624**
 -[Daksh Malhan](https://github.com/daksh-malhan)**my first contribution**
 -[Marga Buke-Lowe](https://github.com/margaburke)**Hello from Newcastle upon Tyne!**
+-[William Castañeda](https://github.com/wcastane) **Hello from Monterrey, México!**
 -[Estelle Costanza](https://github.com/wrx777)**My second contribution**
 -[lain](https://github.com/JiteshNayak2004) my first oss contribution!! lessgo looking forward to make a mark here
 - [Parinita Edke](https://github.com/parinitaedke)**First contribution :)**
